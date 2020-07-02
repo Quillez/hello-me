@@ -1,2 +1,6 @@
 # hello-me
-This is a hello to me
+
+Hello People of the world!
+
+This is a hello to me and everyone nearby!
+If i'm able to code I'll be able to reach everyone in the world!
